@@ -1,4 +1,13 @@
 # budget-tracker-PWA
 
 # Description
-This an application that is used to track down your budgets and the first idea was to seploy this project to heroku but due to lack of time it wasn't possible to do so. it will be deployed the next few days
+This is an application that allows users to manage and track their budget both online and offline.
+When the user enters transactions offline, the changes will be updated when the user returns online.
+
+# Usage 
+To run this application, run `npm install` to install all the dependencies and after run `node server.js` to start the server on localhost
+
+# Links 
+Demo Link: 
+Repository Link:
+
